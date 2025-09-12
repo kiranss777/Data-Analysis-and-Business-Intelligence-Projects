@@ -1,5 +1,7 @@
 # British Airways Review Analytics Dashboard: Customer Experience Intelligence
 
+You can find this Dashboard at Tableau Public: https://public.tableau.com/app/profile/kiran.sathya.sunkoji.rao/viz/BA_reviews_notebook/Dashboard1
+
 This comprehensive Tableau dashboard transforms British Airways customer review data into actionable insights, enabling data-driven decision making across multiple service dimensions and operational metrics.
 
 ## Dashboard Overview
